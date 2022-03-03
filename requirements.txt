@@ -1,8 +1,14 @@
-click==8.0.4
-Flask==2.0.3
-gunicorn==20.1.0
-itsdangerous==2.1.0
-Jinja2==3.0.3
-MarkupSafe==2.1.0
-six @ file:///AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/python3/python3-103/six-1.15.0-py2.py3-none-any.whl
-Werkzeug==2.0.3
+certifi==2019.3.9
+chardet==3.0.4
+Click==7.0
+Flask==1.0.3
+idna==2.8
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+python-dotenv==0.10.3
+requests==2.22.0
+stripe==2.29.3
+toml==0.9.6
+urllib3==1.25.8
+Werkzeug==1.0.1
